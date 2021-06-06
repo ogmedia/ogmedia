@@ -23,6 +23,6 @@ I'm a software engineer and web applications developer with over 15 years experi
 - 💬 Ask me about Web Applications
 
 ### Some Recent Cool Work
-- [Roughseas](https://github.com/ogmedia/roughseas): a 3D/XR water environment built in BabylonJS ![Roughseas screenshot](https://github.com/ogmedia/ogmedia/blob/main/roughseas.png?raw=true)
+- ![Roughseas screenshot](https://github.com/ogmedia/ogmedia/blob/main/roughseas.png?raw=true) [Roughseas](https://github.com/ogmedia/roughseas): a 3D/XR water environment built in BabylonJS 
 
 ![Sean](https://github.com/ogmedia/ogmedia/blob/main/580c8cf7b55740eafa4756048b799d7c.jpg)
