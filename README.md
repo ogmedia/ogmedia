@@ -1,5 +1,6 @@
+(Sean)[https://github.com/ogmedia/ogmedia/blob/main/580c8cf7b55740eafa4756048b799d7c.jpg]
 ### Hi there 👋
-I'm a software engineer and web applications developer with over 15 years experience. Graduated from Polytechnic University (now NYU-Poly) with a B.S. in Computer Science and an M.S. in Integrated Digital Media & Philosophy.
+I'm a software engineer and web applications developer with over 15 years experience. Graduated from Polytechnic University (now NYU-Poly) with a B.S. in Computer Science and an M.S. in Integrated Digital Media & Philosophy. I'm an incubator alumni (Mach5 2014).
 
 ### Skills
 - Rapid Prototyping / MVP
