@@ -8,11 +8,17 @@ I'm a software engineer and web applications developer with over 15 years experi
 - React
 - VueJS
 
+### Technical Hobbies
+- 3D Printing
+- ROS / Robotics
+- Arduino
+- Nvidia Jetson / CUDA
+
 ### Currently...
 - 🔭 I’m currently working on [MeetingPulse](https://meet.ps)
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Blockchain/Immutability
-- 🤔 I’m looking for help with Rust
+- 🤔 I’m looking for help with distributed/parallel processing
 - 💬 Ask me about Web Applications
 
 ### Some Recent Cool Work
