@@ -1,5 +1,5 @@
 
-### Hi there 👋
+## Hi there 👋
 I'm a software engineer and web applications developer with over 15 years experience. Graduated from Polytechnic University (now NYU-Poly) with a B.S. in Computer Science and an M.S. in Integrated Digital Media & Philosophy. I'm an incubator alumni (Mach5 2014).
 
 ### Skills
@@ -22,7 +22,6 @@ I'm a software engineer and web applications developer with over 15 years experi
 - 🤔 I’m looking for help with distributed/parallel processing
 - 💬 Ask me about Web Applications
 
-### Some Recent Cool Work
-- ![Roughseas screenshot](https://github.com/ogmedia/ogmedia/blob/main/roughseas.png?raw=true) [Roughseas](https://github.com/ogmedia/roughseas): a 3D/XR water environment built in BabylonJS 
-
-![Sean](https://github.com/ogmedia/ogmedia/blob/main/580c8cf7b55740eafa4756048b799d7c.jpg)
+## Some Recent Cool Work
+### [Roughseas](https://github.com/ogmedia/roughseas)
+![Roughseas screenshot](https://github.com/ogmedia/ogmedia/blob/main/roughseas.png?raw=true) A 3D/XR water environment built in BabylonJS 
