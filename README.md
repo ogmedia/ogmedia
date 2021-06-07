@@ -24,9 +24,11 @@ I'm a software engineer and web applications developer with over 15 years experi
 
 ## Some Recent Cool Work
 ### [Roughseas](https://github.com/ogmedia/roughseas)
-A 3D/XR water environment built in BabylonJS/
+A 3D/XR water environment built in BabylonJS
+
 ![Roughseas screenshot](https://github.com/ogmedia/ogmedia/blob/main/roughseas.png?raw=true)  
 
 ### [NewSmovia](https://github.com/ogmedia/NewSmovia)
-A 3D world, w/original music. Built in ThreeJS, ImmutableJS, and more. Populates a world of characters w/resources./
+A 3D world, w/original music. Built in ThreeJS, ImmutableJS, and more. Populates a world of characters w/resources.
+
 ![NewSmovia screenshot](https://github.com/ogmedia/NewSmovia/blob/main/newsmovia.png)
