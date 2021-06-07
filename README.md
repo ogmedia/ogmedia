@@ -4,7 +4,7 @@ I'm a software engineer and web applications developer with over 15 years experi
 
 I enjoy building fun interactive experiences and experimenting with new tech as much as possible.
 
-### Skills
+### Recently using
 - Rapid Prototyping / MVP
 - Javascript(ES6)/Typescript
 - NodeJS
