@@ -2,6 +2,8 @@
 ## Hi there 👋
 I'm a software engineer and web applications developer with over 15 years experience. Graduated from Polytechnic University (now NYU-Poly) with a B.S. in Computer Science and an M.S. in Integrated Digital Media & Philosophy. I'm an incubator alumni (Mach5 2014).
 
+I enjoy building fun interactive experiences and experimenting with new tech as much as possible.
+
 ### Skills
 - Rapid Prototyping / MVP
 - Javascript(ES6)/Typescript
