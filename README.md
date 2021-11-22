@@ -18,8 +18,8 @@ I enjoy building fun interactive experiences and experimenting with new tech as 
 - Nvidia Jetson / CUDA
 
 ### Currently...
-- 🔭 I’m currently working on [MeetingPulse](https://meet.ps)
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently tech-cofounder at [SQUADS](https://sqds.io)
+- 🌱 I’m currently learning Splunk
 - 👯 I’m looking to collaborate on Blockchain/Immutability
 - 🤔 I’m looking for help with distributed/parallel processing
 - 💬 Ask me about Web Applications
